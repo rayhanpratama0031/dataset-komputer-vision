@@ -1,1 +1,1 @@
-# dataset-komputer-grafis
+# dataset-komputer-vision
